@@ -4,7 +4,12 @@ As a participant in the [Dev Book Club](http://devbookclub.org) I will keep note
 
 ## Books
 
-1. [Clean Code by Robert Martin](http://amzn.com/0132350882)
+### Clean Code by Robert Martin
+
+The Book club started covering this book on February 3, 2015. My notes from this book are in [clean-code](clean-code).
+
+[Joe Ferguson](https://twitter.com/joepferguson) is also tracking his notes in his [CleanCode-BookNotes](https://github.com/svpernova09/CleanCode-BookNotes) repository.
+
 
 ## About the Dev Book Club
 
