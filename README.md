@@ -2,9 +2,7 @@
 
 As a participant in the [Dev Book Club](http://devbookclub.org) I will keep notes from chapters as I read in this repository.
 
-## Books
-
-### Clean Code by Robert Martin
+#### Clean Code by Robert Martin
 
 The Book club started covering this book on February 3, 2015. My notes from this book are in [clean-code](clean-code).
 
